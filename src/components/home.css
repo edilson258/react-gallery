@@ -1,0 +1,51 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.add-image-cont {
+  margin: 3rem 0rem;
+  margin-top: 3rem;
+  border-top: 1px solid lightgray;
+  padding-top: 1rem;
+}
+
+.add-image-icon-wrap {
+  display: flex;
+  justify-content: center;
+  width: 6rem;
+  padding: 1.3rem .5rem;
+  margin: 0 auto;
+  border: 2px dotted black;
+}
+
+.add-image-icon {
+  font-size: 1.5rem;
+}
+
+.clean-gallery {
+  margin-top: 1rem;
+  width: 7rem;
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+  font-weight: bold;
+  color: tomato;
+}
+
+.gallery-thumbnail {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.images-icon {
+  display: block;
+  margin: 0 auto;
+  font-size: 5rem;
+}
+
+.gallery-thumbnail > span {
+  display: block;
+  font-size: 1.2rem;
+  margin-top: .5rem;
+  font-weight: bold;
+}
