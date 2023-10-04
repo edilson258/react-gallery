@@ -22,5 +22,5 @@ cd react-gallery
 yarn
 yarn run dev
 ```
-then access the app using `http://127.0.0.1:3000/'
+then access the app using `http://127.0.0.1:3000/`
    
